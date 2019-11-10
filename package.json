@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "name": "install-project",
+  "version": "0.0.2",
+  "main": "index.js",
+  "author": "Matthew Daniel Murphy <matt@mattmurphy.ca> (https://mattmurphy.ca)",
+  "license": "MIT",
+  "bin": {
+    "i": "app.js",
+    "install": "app.js"
+  }
+}
